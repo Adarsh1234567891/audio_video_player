@@ -22,7 +22,7 @@ This is a single-page React application featuring a video player, audio recorder
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/video-audio-app.git
+   git clone https://github.com/Adarsh1234567891/video-audio-app.git
    cd video-audio-app
    ```
 
