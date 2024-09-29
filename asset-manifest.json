@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Adarsh1234567891/.github.io/video-audio-app/static/css/main.6e0f7001.css",
+    "main.js": "/Adarsh1234567891/.github.io/video-audio-app/static/js/main.556010fa.js",
+    "static/js/453.8dcf0d0b.chunk.js": "/Adarsh1234567891/.github.io/video-audio-app/static/js/453.8dcf0d0b.chunk.js",
+    "index.html": "/Adarsh1234567891/.github.io/video-audio-app/index.html",
+    "main.6e0f7001.css.map": "/Adarsh1234567891/.github.io/video-audio-app/static/css/main.6e0f7001.css.map",
+    "main.556010fa.js.map": "/Adarsh1234567891/.github.io/video-audio-app/static/js/main.556010fa.js.map",
+    "453.8dcf0d0b.chunk.js.map": "/Adarsh1234567891/.github.io/video-audio-app/static/js/453.8dcf0d0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e0f7001.css",
+    "static/js/main.556010fa.js"
+  ]
+}
